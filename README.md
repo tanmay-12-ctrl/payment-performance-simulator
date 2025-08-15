@@ -57,3 +57,4 @@ This project demonstrates **performance analysis capabilities** relevant to larg
 ```bash
 git clone https://github.com/tanmay-12-ctrl/payment-performance-simulator.git
 cd payment-performance-simulator
+Live Demo:** [Payment Performance Simulator](https://payment-performance-simulator-6vpijxypvtjmjktu8qrfec.streamlit.app/) – Try the app in your browser, no installation required.
